@@ -19,13 +19,7 @@ Essa linguagem é realmente poderosa, como já ouvi muito falar antes de começa
 
 ### Tecnologias
 
-<img class="img" src="src/images/tecnologia-1.png" alt="HTML icon" width="30px"><img class="img" src="src/images/tecnologia-2.png" alt="CSS icon" width="30px"><img class="img" src="src/images/tecnologia-3.png" alt="JS icon" width="30px">
-
-<style>
-    .img {
-        padding: 6px;
-    }
-</style>
+<img src="src/images/tecnologia-1.png" alt="HTML icon" width="30px"><img src="src/images/tecnologia-2.png" alt="CSS icon" width="30px"><img src="src/images/tecnologia-3.png" alt="JS icon" width="30px">
 
 ### Link
 
